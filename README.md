@@ -4,5 +4,5 @@ A physically based Path Tracer that runs in a GLSL Fragment shader.
 
 ## Screenshots
 
-![1](./screenshots/1.jpg)
+![1](./ssImage/1.png)
 
