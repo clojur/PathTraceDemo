@@ -2,14 +2,14 @@
 
 A physically based Path Tracer that runs in a GLSL Fragment shader. 
 
-This repo modified from the original repo： https://github.com/knightcrawler25/GLSL-PathTracer
+This repo modified from the original repo： https://github.com/clojur/PathTraceDemo
 
 ## Build
 
 Support for `Windows`、`MacOS`、`Ubuntu` and test pass.
 
 ```bash
-git clone https://github.com/BobLChen/PathTracer.git
+git clone https://github.com/clojur/PathTraceDemo
 cd PathTracer
 mkdir build
 cd build
@@ -36,7 +36,7 @@ make
 
 ## Sample Scenes
 These assets modified from the origin repo.
-Link to origin repo:https://github.com/knightcrawler25/GLSL-PathTracer
+Link to origin repo:https://github.com/clojur/PathTraceDemo
 Assets:https://drive.google.com/file/d/1SK9fRyzvpHBNBFb0Gc6nDvDkH7AHVj6H/view?usp=sharing
 
 ## Screenshots
